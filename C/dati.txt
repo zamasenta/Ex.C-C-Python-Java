@@ -1,0 +1,4 @@
+Nome: Lorenzo
+Cognome: Gramazio
+Eta: 17
+Classe: 4IA
